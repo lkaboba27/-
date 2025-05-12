@@ -26,39 +26,32 @@ class Program
         };
 
         Console.Write("{");
-
-        int dim0 = mas.GetLength(0);
-        int dim1 = mas.GetLength(1);
-        int dim2 = mas.GetLength(2);
-
-        for (int i = 0; i < dim0; i++)
+        
+        // Первый уровень - 4 элемента
+        for (int i = 0; i < 4; i++)
         {
+            if (i > 0) Console.Write(" , ");
             Console.Write("{");
-
-            for (int j = 0; j < dim1; j++)
+            
+            // Второй уровень - 2 элемента
+            for (int j = 0; j < 2; j++)
             {
+                if (j > 0) Console.Write(" , ");
                 Console.Write("{");
-
-                for (int k = 0; k < dim2; k++)
+                
+                // Третий уровень - 2 элемента
+                for (int k = 0; k < 2; k++)
                 {
+                    if (k > 0) Console.Write(" , ");
                     Console.Write(mas[i, j, k]);
-                    if (k < dim2 - 1)
-                        Console.Write(" , ");
                 }
-
-                Console.Write("}");
-
-                if (j < dim1 - 1)
-                    Console.Write(" , ");
+                
+                Console.Write("}"); //не переводит на новую строку 
             }
-
+            
             Console.Write("}");
-
-            if (i < dim0 - 1)
-                Console.Write(" , ");
         }
-
-        Console.WriteLine("}");
+        
+        Console.WriteLine("}"); //а тут переходит
     }
 }
-
