@@ -4,7 +4,7 @@
 
 ### [Блок-схема](https://github.com/lkaboba27/-/blob/main/block_diagram.txt) (выполнено)
 
-### [Консольная новелла](https://github.com/lkaboba27/-/blob/main/console_novel.cs) (выполнено)
+### [Консольная новелла] [![Открыть README](https://img.shields.io/badge/Документация-Блок--схемы-lightgrey)](https://github.com/lkaboba27/-/tree/Novel) (выполнено)
 
 ### [Задачи циклы]() (выполнено)
 
