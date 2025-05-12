@@ -4,7 +4,7 @@
 
 ### [Блок-схема](https://github.com/lkaboba27/-/blob/main/block_diagram.txt) (выполнено)
 
-### [Консольная новелла]() (выполнено)
+### [Консольная новелла](https://github.com/lkaboba27/-/blob/main/console_novel.cs) (выполнено)
 
 ### [Задачи циклы]() (выполнено)
 
