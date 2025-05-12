@@ -2,7 +2,7 @@
 
 ## Выполнил: _Коноплина Елена ИПО-23.23_
 
-### [Блок-схема](https://github.com/lkaboba27/-/blob/main/block_diagram) (выполнено)
+### [Блок-схема](https://github.com/lkaboba27/-/blob/main/block_diagram.txt) (выполнено)
 
 ### [Консольная новелла]() (выполнено)
 
