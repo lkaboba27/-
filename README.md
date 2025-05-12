@@ -7,7 +7,7 @@
 ---
 
 ##  Содержание репозитория
-### 1. [Текстовая новелла](console_novel.cs/README.md)
+### 1. [Текстовая новелла](Novel/console_novel.cs/README.md)
 [![Открыть README](https://img.shields.io/badge/Документация-Новеллчк-red)](https://github.com/lkaboba27/-/tree/Novel)
 
 ### 2. [Массивы](arrays_files.cs/README.md)
