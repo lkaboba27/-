@@ -23,7 +23,7 @@
 [![Открыть README](https://img.shields.io/badge/Документация-Циклички-blue)](https://github.com/lkaboba27/-/tree/cycles)
 
 ### 6. Методы
-[![Открыть README](https://img.shields.io/badge/Документация-Циклички-purple)](https://github.com/lkaboba27/-/tree/methods)
+[![Открыть README](https://img.shields.io/badge/Документация-Методи-purple)](https://github.com/lkaboba27/-/tree/methods)
 
 ### 7. Игра "Крестики-нолики"
 [![Открыть документацию](https://img.shields.io/badge/_Документация-Крестик_нолик_-white)](https://github.com/lkaboba27/-/tree/ticc_tac_toe)
