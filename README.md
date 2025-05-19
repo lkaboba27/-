@@ -17,7 +17,7 @@
 [![Открыть README](https://img.shields.io/badge/Документация-Блочки--схемы-yellow)](https://github.com/lkaboba27/-/tree/block)
 
 ### 4. Простой калькулятор
-[![Открыть README](https://img.shields.io/badge/Документация-Калькулятор-green)](https://github.com/FallCracka/chalenge/tree/main/calculat-main)
+[![Открыть README](https://img.shields.io/badge/Документация-Калькулятор-green)](https://github.com/lkaboba27/-/tree/consol_colc)
 
 ### 5. Циклы
 [![Открыть README](https://img.shields.io/badge/Документация-Циклички-blue)](https://github.com/lkaboba27/-/tree/cycles)
