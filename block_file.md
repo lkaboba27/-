@@ -121,4 +121,3 @@ S = 1
 
 •	Конец
 
-[блок-схема](https://github.com/lkaboba27/-/blob/block/zad_7.jpg)
