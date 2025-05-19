@@ -28,6 +28,12 @@
 ### 7. Игра "Крестики-нолики"
 [![Открыть документацию](https://img.shields.io/badge/_Документация-Крестик_нолик_-white)](https://github.com/lkaboba27/-/tree/ticc_tac_toe)
 
+### 8. Пять задачь
+[![Открыть документацию](https://img.shields.io/badge/_Документация-Крестик_нолик_-b0b7c6)](https://github.com/lkaboba27/-/tree/five-zadachi)
+
+### 9. Работа с файловой систетемой и файлом"
+[![Открыть документацию](https://img.shields.io/badge/_Документация-Крестик_нолик_-baacc7)](https://github.com/lkaboba27/-/tree/file_sistem)
+
 
 
 Александр Сергеевич, не бейте 
