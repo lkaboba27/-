@@ -13,26 +13,42 @@
 ### 2. Массивы
 [![Открыть README](https://img.shields.io/badge/Документация-Массивчики-orange)](https://github.com/lkaboba27/-/tree/arrays)
 
+**Описание**: Решение задач с массивами 
+
 ### 3. Блок-схемы
 [![Открыть README](https://img.shields.io/badge/Документация-Блочки--схемы-yellow)](https://github.com/lkaboba27/-/tree/block)
+
+**Описание**: Решение задач с помощью блок-схем
 
 ### 4. Простой калькулятор
 [![Открыть README](https://img.shields.io/badge/Документация-Калькулятор-green)](https://github.com/lkaboba27/-/tree/consol_colc)
 
+**Описание**: Создание простого калькулятора 
+
 ### 5. Циклы
 [![Открыть README](https://img.shields.io/badge/Документация-Циклички-blue)](https://github.com/lkaboba27/-/tree/cycles)
+
+**Описание**: Решение задач с циклами 
 
 ### 6. Методы
 [![Открыть README](https://img.shields.io/badge/Документация-Методи-purple)](https://github.com/lkaboba27/-/tree/methods)
 
+**Описание**: Решение заданий с методами 
+
 ### 7. Игра "Крестики-нолики"
 [![Открыть документацию](https://img.shields.io/badge/_Документация-Крестик_нолик_-white)](https://github.com/lkaboba27/-/tree/ticc_tac_toe)
+
+**Описание**: Создание игры на двух играков с крестиками и ноликами 
 
 ### 8. Пять задачь
 [![Открыть документацию](https://img.shields.io/badge/_Документация-Крестик_нолик_-b0b7c6)](https://github.com/lkaboba27/-/tree/five-zadachi)
 
+**Описание**: Решение пяти задач из coderun
+
 ### 9. Работа с файловой систетемой и файлом"
 [![Открыть документацию](https://img.shields.io/badge/_Документация-Крестик_нолик_-baacc7)](https://github.com/lkaboba27/-/tree/file_sistem)
+
+**Описание**: Создание приложения для работы с файлами 
 
 
 
